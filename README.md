@@ -5,3 +5,7 @@
 ## Install
 
 Copy `starchip.toml` to `~/.config/starship.toml`
+
+```bash
+wget -O ~/.config/starship.toml https://raw.githubusercontent.com/joshuai96/starship-powerline-nord/main/starship.toml
+```
