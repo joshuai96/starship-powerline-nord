@@ -46,7 +46,7 @@ nord14 = '#A2BE8A'
 
 # username, host and OS
 [username]
-style_root = 'bg:nord0 fg:nord4'
+style_root = 'bg:nord0 fg:nord11'
 style_user = 'bg:nord0 fg:nord4'
 format = '[$user]($style)'
 show_always = true
