@@ -17,6 +17,7 @@ $c\
 $elixir\
 $elm\
 $golang\
+$python\
 $gradle\
 $haskell\
 $java\
@@ -123,6 +124,11 @@ format = '[ $symbol ($version) ]($style)'
 symbol = ' '
 style = 'bg:nord3 fg:nord4'
 format = '[ $symbol ($version) ]($style)'
+
+[python]
+symbol = ' '
+style = 'bg:nord3 fg:nord4'
+format = '[ $symbol ($version) (\($virtualenv\)) ]($style)'
 
 [gradle]
 style = 'bg:nord3 fg:nord4'
